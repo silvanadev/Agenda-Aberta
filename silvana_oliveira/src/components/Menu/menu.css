@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+.menu-container {
+  width: 100%;
+  background-color: #FFF;
+  height: 3rem;
+  margin: 0;
+}
+
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  background-color: #FFF;
+  box-shadow: 1px 0px 10px rgba(0, 0, 0, 0.699);
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 4rem;
+}
+
+.item {
+  float: left;
+  background-color: #FFF;
+
+}
+
+.item-logo {
+  float: left;
+  margin-left: 3rem;
+  margin-top: 0.4rem;
+  background-color: #FFF;
+}
+
+.item h1 {
+  color: #fa604b;
+  font-weight: 100;
+  font-size: 2rem;
+  background-color: #FFF;
+}
+
+.item .link {
+  font-size: 1.3em;
+  font-weight: 600;
+  display: block;
+  text-align: center;
+  padding: 8px 20px;
+  text-decoration: none;
+  color: black;
+  font-family: 'Ibarra Real Nova', serif;
+  font-style: italic;
+  background-color: #FFF;
+}
+

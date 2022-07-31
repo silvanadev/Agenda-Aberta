@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+*{
+    background-color: #effceb;
+}
+.verde{
+    background-color: #effceb;
+}
+
+.section-sobre2 {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    margin-top: 5rem;
+    background-color: #effceb;
+}
+
+.div-sobre2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-img2 {
+    justify-content: center;
+    align-items: center;
+    margin-right: 2rem;
+    margin-top: -4rem;
+}
+
+.image2 {
+    margin-top: 5rem;
+    padding: 0.5rem;
+    width: 32vw;
+    min-width: 20rem;
+}
+
+.container-2 {
+    width: 50%;
+    text-align: center;
+    margin-top: -3rem;
+}
+
+.titulo2 {
+    font-size: 4vw;
+    color: black;
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: italic;
+    margin-bottom: 12rem;
+}
+
+.description2 {
+    font-family: 'Ibarra Real Nova', serif;
+    margin-top: -10rem;
+    padding-right: 1vw;
+    padding-left: 1vw;
+    font-size: 2.2vw;
+    color: black;
+    font-weight: 100;
+}
+
+.btn-container {
+    margin-top: 2rem;
+}
+
+.btn {
+    background-color: crimson;
+    padding: 0.5rem;
+    color: aliceblue;
+    font-weight: bold;
+    border-radius: 0.5rem;
+    width: 12rem;
+}
+
+.container-subtitulo2 {
+    background-color: none;
+}
+
+.subtitulo2 {
+    font-size: 2.6vw;
+    color: black;
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: italic;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    padding-right: 5vw;
+    padding-left: 5vw;
+}
+
+.container-baixar {
+    display: flex;
+    justify-content: center;
+}
+
+.baixar {
+    width: 10rem;
+}

@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+*{
+    scroll-behavior: smooth;
+    
+}
+.section-sobre {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    margin-top: 3rem;
+    text-align: center;
+    justify-content: center;
+    background-color: #effceb;
+
+}
+
+.div-sobre {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container-1 {
+    width: 40vw;
+    min-width: 22rem;
+    margin-top: 0.2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo {
+    font-size: 5vh;
+    color: black;
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: italic;
+    margin-bottom: 12rem;
+}
+
+.description {
+    font-family: 'Ibarra Real Nova', serif;
+    margin-top: -10rem;
+    padding-right: 1vw;
+    padding-left: 1vw;
+    font-size: 4vh;
+    color: black;
+    font-weight: 100;
+}
+
+.subtitulo {
+    font-size: 4vh;
+    color: black;
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: italic;
+    margin-bottom: 6rem;
+    margin-top: 3rem;
+    padding-right: 2vw;
+    padding-left: 2vw;
+}
+
+.span1 {
+    color: #4d5d56;
+}
+
+.span2 {
+    color: #fa604b;
+}
+
+.seta {
+    width: 50px;
+    border-radius: 0;
+    align-self: center;
+    margin-bottom: 1rem;
+}
+
+.container-img {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    width: 25rem;
+}

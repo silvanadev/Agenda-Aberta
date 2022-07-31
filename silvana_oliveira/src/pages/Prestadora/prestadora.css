@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+.prestadora-container{
+    text-align: center;
+}
+
+.info-h3 {
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+.hr {
+    width: 42.5vw;
+}
+
+.prestadora-info {
+    margin-bottom: 1rem;
+}
+
+.container-foto {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.foto {
+    width: 20vw;
+}
+
+.titulo-btn {
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: italic;
+}
+
+.redes-sociais {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.a {
+    width: 4rem;
+}
